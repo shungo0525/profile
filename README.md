@@ -2,6 +2,7 @@
 ### backend
 - Ruby, Javascript
 - Ruby on Rails
+- Golang
 - GraphQL
 - Rspec
   
